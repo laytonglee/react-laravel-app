@@ -57,7 +57,7 @@ export default function Welcome({ auth, laravelVersion, phpVersion }) {
                                         href={route("register")}
                                         className="px-4 py-2 rounded-lg bg-red-600 text-white hover:bg-red-700 transition"
                                     >
-                                        Register
+                                        Register Here
                                     </Link>
                                 </>
                             )}
